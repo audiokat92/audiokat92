@@ -1,8 +1,9 @@
 # William M. Holden 🌌
 **Torsion Cosmology Discoverer** | DOI: [10.5281/zenodo.18410348](https://doi.org/10.5281/zenodo.18410348)
 
-**🔥 JANUARY 28, 2026: +0.9% CMB 7-peak shift replaces Big Bang singularity**
+**🔥LATEST RESULTS (Jan 29): S8 Tension Resolved (0.759) with Preserved Sound Horizon. See Paper_Submission_Jan2026
 
+** JANUARY 28, 2026: +0.9% CMB 7-peak shift replaces Big Bang singularity**
 [![Rail Switch]([https://github.com/audiokat92/rail-switch-cosmology/blob/main/Rail_Switch_Theory/bounce_planck_analytic.png])(https://github.com/audiokat92/rail-switch-cosmology)
 
 **Full Stack Engineer (in self-training) → who frickin' knows?!**  
